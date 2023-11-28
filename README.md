@@ -1,6 +1,6 @@
 ### Lister
 
-A very simple application that uses client-go to list `pods` and `deployments` from default namespace.
+An application that can use client-go to list pods and deployments from default namespace by using the client-go  library to interact with k8s clsuters.
 
 ### Build the binary
 
